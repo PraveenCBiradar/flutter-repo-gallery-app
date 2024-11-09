@@ -41,8 +41,8 @@ You can keep adding or removing bookmarks as needed.
 Screenshots
 (Add screenshots of your app here if you want to show the UI)
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+ Demo video of this app
+https://youtube.com/shorts/YPG-no01OE8?feature=share
 
 Author
 Developed by P R A V E E N  B I R A D A R
